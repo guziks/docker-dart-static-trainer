@@ -7,7 +7,6 @@ List of "static" images (all are "onbuild"):
 * [dart-static-builder](https://hub.docker.com/r/guziks/dart-static-builder)
 * [dart-static-trainer](https://hub.docker.com/r/guziks/dart-static-trainer) (this one)
 * [dart-static-runtime](https://hub.docker.com/r/guziks/dart-static-runtime)
-* [dart-static](https://hub.docker.com/r/guziks/dart-static)
 
 ## Tags
 
