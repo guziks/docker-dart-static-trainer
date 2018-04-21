@@ -1,4 +1,4 @@
-FROM google/dart
+FROM google/dart:dev
 ONBUILD WORKDIR /app
 ONBUILD COPY --from=builder /app/bin/main.snap ./
 ONBUILD RUN dart \
